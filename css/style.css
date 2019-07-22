@@ -1,0 +1,215 @@
+.container-fluid{
+  background-color:#f9ecf2;
+}
+.marcxena{
+width:400px;
+height:850px;
+background-color:#f3d8e6;
+margin-left:20px;
+
+
+}
+
+
+
+.marjvena{
+width:400px;
+height:850px;
+background-color:#f3d8e6;
+margin-right: 20px;
+
+
+}
+
+.text1{
+  font-size: 20px;
+  color:#004080;
+  transition: height:0.5s ease;
+}
+
+.text1:hover{
+  color:red;
+}
+
+.samebaa{
+  margin-left:70px;
+  font-size: 20px;
+  color:#004080;
+
+}
+.samebaa:hover{
+  color:red;
+  }
+.metexii{
+  margin-left:70px;
+  font-size: 20px;
+  color:#004080;
+
+}
+.metexii:hover{
+  color:red;
+}
+
+.jutaa{
+  margin-left:70px;
+  font-size: 20px;
+  color:#004080;
+
+}
+
+.jutaa:hover{
+  color:red;
+}
+.kazbegi{
+  width: 220px;
+  height:160px;
+}
+.sameba{
+  width: 220px;
+  height:160px;
+}
+.batumi{
+  width: 220px;
+  height:160px;
+}
+.kanioni{
+  width: 220px;
+  height:160px;
+}
+
+
+.juta{
+  width: 220px;
+  height:160px;
+}
+
+
+  .shua1{
+    
+    margin-top:100px;
+    
+}
+.spend{
+  font-size: 28px;
+  color:004080;
+}
+.ba{
+  margin-top: 68px;
+  width:790px;
+  height:500px;
+}
+.shua-text{
+  border:4px solid #004080;
+  text-align: center;
+  background-color: #f3d8e6;
+
+}
+.shua-text:hover{
+  border:4px solid red;
+  height:80px;
+
+}
+
+.imgtext1{
+  position:relative;
+  animation: abanotubani 5s infinite;
+}
+
+@keyframes abanotubani{
+
+  from {left: 60px;}
+  to {left: 85px;}
+
+  }
+
+.imgtext2{
+  position:relative;
+  animation: mtawminda 5s infinite;
+}
+
+@keyframes mtawminda{
+
+  from {left: 60px;}
+  to {left: 85px;}
+
+  }
+  .imgtext3{
+  position:relative;
+  animation: sameba 5s infinite;
+}
+
+@keyframes sameba{
+
+  from {left: 60px;}
+  to {left: 85px;}
+
+  }
+  .imgtext4{
+  position:relative;
+  animation: metexi 5s infinite;
+}
+
+@keyframes metexi{
+
+  from {left: 60px;}
+  to {left: 85px;}
+
+  }
+  .imgtext5{
+  position:relative;
+  animation: juta 5s infinite;
+}
+
+@keyframes juta{
+
+  from {left: 60px;}
+  to {left: 85px;}
+
+  }
+  .imgtext6{
+  position:relative;
+  animation: kazbegi 5s infinite;
+}
+
+@keyframes kazbegi{
+
+  from {left: 60px;}
+  to {left: 85px;}
+  }
+   .imgtext7{
+  position:relative;
+  animation: kanioni 5s infinite;
+}
+
+@keyframes kanioni{
+
+  from {left: 60px;}
+  to {left: 85px;}
+
+  }
+   .imgtext8{
+  position:relative;
+  animation: batumi 5s infinite;
+}
+
+@keyframes batumi{
+
+  from {left: 60px;}
+  to {left: 85px;}
+
+  }             
+
+ .contai11{
+  margin: 200px;
+}
+.cot11{
+  width: 600px;
+  background-color: #fcee21;
+}
+.text11{
+font-size: 14px;
+}
+.sur11{
+  width: 600px;
+  height: 400px;
+}
