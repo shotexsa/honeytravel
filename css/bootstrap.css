@@ -10237,3 +10237,18 @@ margin-right: 20px;
   to {left: 85px;}
 
   }             
+
+  .container2{
+    width:300px;
+    height:400px;
+    background-color:yellow;
+  }
+  .kartulitext{
+    font-size: 14px;
+    width:300px;
+   
+  }
+  .kartuli{
+    width:300px;
+    height:250px;
+  }
