@@ -314,7 +314,7 @@ margin-left: 20px;
   width:150px;
   height:170px;
   position:absolute;
-  animation: marcxena 10s infinite;
+  animation: marcxena 10s ;
   
 }
 
@@ -333,7 +333,7 @@ margin-left: 20px;
   width:150px;
   height:170px;
   position:absolute;
-  animation: marjvnidan 10s infinite;
+  animation: marjvnidan 10s ;
 }
 
 @keyframes marjvnidan{
@@ -351,7 +351,7 @@ margin-left: 20px;
   top:1500px;
   right:850px;
   position:absolute;
-  animation: love 10s infinite;
+  animation: love 10s ;
 }
 
 @keyframes love{
