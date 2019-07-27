@@ -5,16 +5,18 @@
   border: 5px inset red;
 }
 .ukanaponi{
-  background-color:#ff80df;
+  background-color:#f9ebf2;
 }
 .container-fluid{
-  background-color:#f9ecf2;
+  background-color:#7380a5;
 }
 .marcxena{
 width:400px;
 height:800px;
-background-color:#f3d8e6;
+background-color:#ebe0eb;
 margin-left:20px;
+margin-top: 20px;
+margin-bottom: 20px;
 clip-path: polygon(6% 0, 94% 0, 82% 100%, 17% 100%);
 
 }
@@ -22,8 +24,10 @@ clip-path: polygon(6% 0, 94% 0, 82% 100%, 17% 100%);
 .marjvena{
 width:360px;
 height:800px;
-background-color:#f3d8e6;
+background-color:#ebe0eb;
 margin-right: 20px;
+margin-top: 20px;
+margin-bottom: 20px;
 clip-path: polygon(6% 0, 94% 0, 82% 100%, 17% 100%);
 
 
@@ -91,7 +95,7 @@ clip-path: polygon(6% 0, 94% 0, 82% 100%, 17% 100%);
   width: 200px;
   height:140px;
 }
-.abanotubani{
+.cekva1{
   width: 200px;
   height:140px;
 }
@@ -107,7 +111,7 @@ clip-path: polygon(6% 0, 94% 0, 82% 100%, 17% 100%);
 
   .shua1{
     
-    margin-top:100px;
+   margin-top: 55px;
 }
     
 }
@@ -117,10 +121,10 @@ clip-path: polygon(6% 0, 94% 0, 82% 100%, 17% 100%);
 }
 .ba{
   
-  width:700px;
-  height:450px;
+  width:900px;
+  height:600px;
   margin-top:50px;
-  margin-left:100px;
+  margin-left:30px;
 }
 .shua-text{
 
@@ -136,10 +140,10 @@ clip-path: polygon(6% 0, 94% 0, 82% 100%, 17% 100%);
 
 .imgtext1{
   position:relative;
-  animation: abanotubani 5s infinite;
+  animation: cekva11 5s infinite;
 }
 
-@keyframes abanotubani{
+@keyframes cekva11{
 
   from {left: 60px;}
   to {left: 85px;}
@@ -375,23 +379,22 @@ margin-left: 20px;
   margin-left: 0;
 
 }
-.samzareulo1{
-  width:600px;
-  height: 600px;
-  background-color:#ff8080;
-}
-.samzareulo2{
-  width:600px;
-  height: 600px;
-  background-color:#9999ff;
-}
-.samzareulo3{
-  width:600px;
-  height: 600px;
-  background-color:#80b3ff;
+
+
+.honey{
+  width: 60px;
+  height:35px;
 }
 
-.kaxeti{
-  width:150px;
-  height:100px;
+.viber{
+  width:60px;
+  height:35px;
+  margin-left: 250px;
+  margin-right:0px;
+}
+.viber555{
+  margin-right:0px;
+}
+.gawie{
+  margin-left: 320px;
 }
