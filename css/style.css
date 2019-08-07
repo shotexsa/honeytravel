@@ -12,16 +12,16 @@
  
 }
 .marcxena{
-width:220px;
-height:540px;
+width:200px;
+height:500px;
 background-color:#5a698c;
 margin-left:20px;
 margin-top: 20px;
 margin-bottom: 20px;
 }
 .marjvena{
-width:220px;
-height:540px;
+width:200px;
+height:500px;
 background-color:#5a698c;
 margin-right: 20px;
 margin-top: 20px;
@@ -31,7 +31,7 @@ margin-bottom: 20px;
 
 .text1{
   font-size: 20px;
-  color:#004080;
+  color:#99004d;
   transition: height:0.5s ease;
 }
 
@@ -42,36 +42,36 @@ margin-bottom: 20px;
 
 
 .tbilisituri{
-  width: 140px;
-  height:85px;
+  width: 130px;
+  height:77px;
 }
 .georgiaturi{
-  width: 140px;
-  height:85px;
+  width: 130px;
+  height:77px;
 }
 .evropa{
-  width: 140px;
-  height:85px;
+  width: 130px;
+  height:77px;
 }
 .cooking{
-  width: 140px;
-  height:85px;
+  width: 130px;
+  height:77px;
 }
 .art{
-  width: 140px;
-  height:85px;
+  width: 130px;
+  height:77px;
 }
 .paraplan{
-  width: 140px;
-  height:85px;
+  width: 130px;
+  height:77px;
 }
 .ertoba{
-  width: 140px;
-  height:85px;
+  width: 130px;
+  height:77px;
 }
 .comeback{
-  width: 140px;
-  height:85px;
+  width: 130px;
+  height:77px;
 }
 
 
@@ -89,7 +89,7 @@ margin-bottom: 20px;
   
   width:740px;
   height:440px;
-  margin-top: 30px;
+  margin-top: 10px;
   margin-left:10px;
 }
 
@@ -154,10 +154,10 @@ margin-bottom: 20px;
 
 @keyframes artt{
 
-    from {left: 25px;}
-    to {left: 35px;}
+  from {left: 25px;}
+  to {left: 35px;}
   }
-  .imgtext6{
+.imgtext6{
   position:relative;
   animation: paraplan 5s infinite;
 }
@@ -167,15 +167,15 @@ margin-bottom: 20px;
   from {left: 45px;}
   to {left: 37px;}
   }
-   .imgtext7{
+.imgtext7{
   position:relative;
   animation: ertobaa 5s infinite;
 }
 
 @keyframes ertobaa{
 
-    from {left: 25px;}
-    to {left: 35px;}
+  from {left: 25px;}
+  to {left: 35px;}
 
   }
    .imgtext8{
@@ -203,9 +203,6 @@ background-color:yellow;
   margin-bottom: 0;
   height: 150px;
 }
- 
-
-
 .about{
   width:1830px;
   height:400px;
@@ -221,14 +218,10 @@ background-color:yellow;
 
 }
 
-s
 .honey{
   width: 60px;
   height:35px;
 }
-
-
-
 .viber{
   width:30px;
   height:20px;
@@ -241,8 +234,6 @@ s
   color: #1e1e7b;
   margin-top: 10px;
   margin-left: 8px;
-
-
 }
 
 
@@ -270,14 +261,12 @@ s
   margin-left: 300px;
 }
 
-
 .saxeli{
   border:2px;
 }
 .home1{
   margin-left: 600px;
 }
-
 
 .batumi{
   width:250px;
@@ -287,7 +276,6 @@ s
   margin-left:348px;
   color:#99004d;
 }
-
 
 .ull{
   background-color: #7380a5
@@ -301,23 +289,12 @@ s
   width: 55px;
   height:40px;
   margin-left: 5px;
-
-
 }
-/*.logo7:hover{
-  width:100px;
-  height: 100px;
-}*/
-
-
-
 
 .gvari{
   margin-top: 1px;
 
 }
-
-
 .meniu2{
   margin-left:115px;
 }
