@@ -298,3 +298,152 @@ background-color:yellow;
 .meniu2{
   margin-left:115px;
 }
+
+
+
+tbilisi2{
+  width:600px;
+  height:250px;
+}
+
+
+
+
+
+.tbilisi2{
+  background-image:url("../img/tbilisi2.jpg");
+  width:1100px;
+  height:450px;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  display:inline-block;
+  margin-left: 100px;
+}
+
+.abanotubanicont{
+  background-color:#7380a5;
+  width: 1350px;
+  margin-left:10px; 
+}
+  
+}
+.abouttbilisi2{
+  width: 1100px;
+  height: 200px;
+  background-color: red;
+  margin-left: 100px;
+  border:4px solid green;
+}
+
+
+.tb2{
+  text-align: center;
+  font-size: 50px;
+  color:yellow;
+}
+
+.tbabout2{
+  padding: 10px;
+}
+
+.stingi2{
+  width:280px;
+  height:430px;
+  margin:7px;
+  margin-top:15px;
+}
+.stingtext{
+  width: 250px;
+  border: 2px solid red;
+  margin:10px;
+  margin-top:15px;
+  padding: 10px;
+}
+
+.abanotubani2{
+  width:250px;
+  height:180px;
+  margin:8px;
+  margin-top:15px;
+  
+}
+.pushkini2{
+  width:250px;
+  height:180px;
+  margin:8px;
+  font-size: 20px;
+}
+
+.abanotubanitext{
+  width: 250px;
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid yellow;
+  
+}
+.abanocolor{
+  color:green;
+}
+
+.abanomarcxena{
+  background-color:red;
+  border:2px dashed blue;
+  margin-left: 100px;
+}
+.abanomarjvena{
+  background-color:green;
+  margin-left: 50px;
+  border:1px dashed blue;
+
+}
+.sameba{
+  width:310px;
+  height:210px;
+ 
+}
+.narikala{
+  width:310px;
+  height:210px;
+  margin-left: 5px;
+ 
+}
+.metexi{
+  width:310px;
+  height:210px;
+ 
+}
+.sioni{
+  width:310px;
+  height:210px;
+ 
+}
+
+
+
+.tanamedrove{
+  width:400px;
+  height: 250px
+
+}
+.erovnuli{
+  width:400px;
+  height: 250px
+
+}
+.etnograpiuli{
+  width:400px;
+  height: 250px
+
+}
+.mtw22{
+  width:600px;
+  height:400px;
+  margin-left: 40px;
+}
+.mtw2222{
+  width:600px;
+  height:400px;
+  margin-left:100px;
+
+}
