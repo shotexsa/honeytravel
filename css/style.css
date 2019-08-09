@@ -12,16 +12,16 @@
  
 }
 .marcxena{
-width:200px;
-height:500px;
+width:180px;
+height:460px;
 background-color:#5a698c;
 margin-left:20px;
 margin-top: 20px;
 margin-bottom: 20px;
 }
 .marjvena{
-width:200px;
-height:500px;
+width:190px;
+height:460px;
 background-color:#5a698c;
 margin-right: 20px;
 margin-top: 20px;
@@ -29,6 +29,19 @@ margin-bottom: 20px;
 
 }
 
+.headercolor{
+  color:#1a1aff;
+}
+.header1{
+  z-index: 100;
+
+}
+
+.honeyt{
+ color:blue;
+
+
+}
 .text1{
   font-size: 20px;
   color:#99004d;
@@ -42,36 +55,36 @@ margin-bottom: 20px;
 
 
 .tbilisituri{
-  width: 130px;
-  height:77px;
+  width: 125px;
+  height:68px;
 }
 .georgiaturi{
-  width: 130px;
-  height:77px;
+  width: 125px;
+  height:68px;
 }
 .evropa{
-  width: 130px;
-  height:77px;
+  width: 125px;
+  height:68px;
 }
 .cooking{
-  width: 130px;
-  height:77px;
+  width: 125px;
+  height:68px;
 }
 .art{
-  width: 130px;
-  height:77px;
+  width: 125px;
+  height:68px;
 }
 .paraplan{
-  width: 130px;
-  height:77px;
+  width: 125px;
+  height:68px;
 }
 .ertoba{
-  width: 130px;
-  height:77px;
+  width: 125px;
+  height:68px;
 }
 .comeback{
-  width: 130px;
-  height:77px;
+  width: 125px;
+  height:68px;
 }
 
 
@@ -80,14 +93,14 @@ margin-bottom: 20px;
   margin-top: 20px;
 }
     
-}
+
 .spend{
   font-size: 28px;
   color:004080;
 }
 .ba{
   
-  width:740px;
+  width:640px;
   height:440px;
   margin-top: 10px;
   margin-left:10px;
@@ -231,7 +244,7 @@ background-color:yellow;
 }
 .viber555{
 
-  color: #1e1e7b;
+  color: #1a1aff;
   margin-top: 10px;
   margin-left: 8px;
 }
@@ -301,12 +314,12 @@ background-color:yellow;
 
 
 
-tbilisi2{
-  width:600px;
-  height:250px;
-}
 
 
+
+
+
+...................
 
 
 
@@ -342,6 +355,9 @@ tbilisi2{
   font-size: 50px;
   color:yellow;
 }
+
+
+
 
 .tbabout2{
   padding: 10px;
