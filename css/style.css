@@ -319,47 +319,62 @@ background-color:yellow;
 
 
 
-...................
+
 
 
 
 .tbilisi2{
   background-image:url("../img/tbilisi2.jpg");
-  width:1100px;
-  height:450px;
+  width:1260px;
+  height:500px;
   background-repeat:no-repeat;
   background-size:cover;
   background-position:center;
-  display:inline-block;
-  margin-left: 100px;
+  margin-left: 55px;
+ }
+
+  
+
+.abouttbilisi2{
+  width: 1260px;
+  height: 150px;
+  background-color: #7380a5;
+  margin-left: 55px;
+  margin-top: 10px;
+  border:2px solid #99004d;
+  padding: 5px;
+ 
 }
 
-.abanotubanicont{
-  background-color:#7380a5;
-  width: 1350px;
-  margin-left:10px; 
-}
-  
-}
-.abouttbilisi2{
-  width: 1100px;
-  height: 200px;
-  background-color: red;
-  margin-left: 100px;
-  border:4px solid green;
+.tb2{
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+  font-size: 50px;
+  color:#99004d;
 }
 
 
 .tb2{
-  text-align: center;
-  font-size: 50px;
-  color:yellow;
+  position:relative;
+  animation: lovetbilisi 10s infinite;
 }
 
+@keyframes lovetbilisi{
 
+  from {left: -400px;}
+  to {left: -50px;}
 
+  }
+
+.abanotext1{
+  margin-left: 615px;
+  margin-top: 100px;
+  margin-bottom:30px;
+}
 
 .tbabout2{
+  width: 1200px;
   padding: 10px;
 }
 
@@ -371,53 +386,99 @@ background-color:yellow;
 }
 .stingtext{
   width: 250px;
-  border: 2px solid red;
   margin:10px;
-  margin-top:15px;
+  margin-top:50px;
   padding: 10px;
 }
+.stingtext1{
+  color: #99004d;
+  margin-top: 10px;
+  margin-left: 55px;
 
+}
 .abanotubani2{
-  width:250px;
-  height:180px;
+  width:280px;
+  height:160px;
   margin:8px;
   margin-top:15px;
   
 }
 .pushkini2{
-  width:250px;
-  height:180px;
+  width:360px;
+  height:230px;
   margin:8px;
+  margin-left: 100px;
   font-size: 20px;
+}
+.pushkiniwrite{
+margin-top: 260px;
 }
 
 .abanotubanitext{
-  width: 250px;
+  width: 280px;
   margin-top: 10px;
   padding: 10px;
-  border: 1px solid yellow;
+ 
   
 }
-.abanocolor{
-  color:green;
-}
+
 
 .abanomarcxena{
-  background-color:red;
-  border:2px dashed blue;
-  margin-left: 100px;
+  width: 350px;
+  background-color:#7380a5;
+  border:1px dashed #99004d;
+  margin-left: 77px;
+  
 }
 .abanomarjvena{
-  background-color:green;
-  margin-left: 50px;
-  border:1px dashed blue;
+  width: 400px;
+  background-color:#7380a5;
+  border:1px dashed #99004d;
+  margin-left: 77px;
+}
+  
+.leksi1{
+  height: 160px;
+  background-color: #7380a5;
+  border:1px dashed #99004d;
+  clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
+}
 
+.leksi11{
+  margin-left: 540px;
+  color:  #99004d;
+}
+
+.eklesiebi{
+  background-color: #c2c2a3;
+  width: 1350px;
+  margin-left: 8px;
 }
 .sameba{
   width:310px;
   height:210px;
+
+}
+.sameba1{
+  color:#661a00;
  
 }
+ .sameba11{
+  color: #661a00;
+  margin:12px;
+
+}
+.narikala1{
+  color:#661a00;
+  margin-left: 130px;
+
+}
+ .narikala11{
+  color: #661a00;
+  margin:12px;
+
+}
+
 .narikala{
   width:310px;
   height:210px;
@@ -429,37 +490,127 @@ background-color:yellow;
   height:210px;
  
 }
+
+
+.metexi1{
+  color: #661a00;
+  margin-left: 130px;
+
+}
+ .metexi11{
+  color: #661a00;
+  margin:12px;
+
+}
+
 .sioni{
   width:310px;
   height:210px;
  
 }
 
+.sioni1{
+  color:#661a00;
+  margin-left: 130px;
 
+}
+ .sioni11{
+  color: #661a00;
+  margin:12px;
 
+}
+.museum{
+  background-color: #e6e6ff;
+  width: 1340px;
+  height: 480px;
+  margin-left: 12px;
+  margin-top: 50px;
+
+}
 .tanamedrove{
   width:400px;
-  height: 250px
+  height: 250px;
+  margin-left: 15px;
+
+}
+.tanamedrove1{
+  color:#cccc00;
+  margin-left: 70px;
+
+}
+ .tanamedrove11{
+  color: #cccc00;
+  margin:5px;
+  margin-left: 15px;
 
 }
 .erovnuli{
   width:400px;
-  height: 250px
+  height: 250px;
+  margin-left: 15px;
+
+}
+.erovnuli1{
+  color:#cccc00;
+  margin-left: 70px;
+
+}
+ .erovnuli11{
+  color: #cccc00;
+  margin:5px;
+  margin-left: 15px;
 
 }
 .etnograpiuli{
   width:400px;
-  height: 250px
+  height: 250px;
+  margin-left: 15px;
+
+}
+.etnograpiuli1{
+  color:#cccc00;
+  margin-left: 70px;
+
+}
+ .etnograpiuli11{
+  color: #cccc00;
+  margin:5px;
+  margin-left: 15px;
 
 }
 .mtw22{
-  width:600px;
+  width:630px;
   height:400px;
-  margin-left: 40px;
+  margin-left:40px ;
+  margin-top:10px ;
 }
 .mtw2222{
-  width:600px;
+  width:630px;
   height:400px;
-  margin-left:100px;
+  margin-right: 32px;
+  margin-top:10px ;
 
+
+}
+.leksi2{
+  background-color: #c2c2a3;
+  width: 660px;
+  color:#661a00;
+  margin-left: 400px;
+  margin-top:50px;
+  margin-bottom: 50px;
+  font-size: 20px;
+}
+.mtawmindatex{
+  background-color: #c2c2a3;
+  margin-left: 30px;
+  width: 1310px;
+  
+}
+.mtawmindatext2{
+  margin: 20px;
+  margin-top: 40px;
+}
+.mtawmindatext22{
+  margin: 20px;
 }
