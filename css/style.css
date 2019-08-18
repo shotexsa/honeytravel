@@ -323,6 +323,11 @@ background-color:yellow;
 
 
 
+.ukanaponi2{
+  background-color:#e0e0d2;
+}
+
+
 .tbilisi2{
   background-image:url("../img/tbilisi2.jpg");
   width:1260px;
@@ -439,7 +444,7 @@ margin-top: 260px;
   
 .leksi1{
   height: 160px;
-  background-color: #7380a5;
+  background-color: #e0e0d1;
   border:1px dashed #99004d;
   clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
 }
@@ -453,6 +458,7 @@ margin-top: 260px;
   background-color: #c2c2a3;
   width: 1350px;
   margin-left: 8px;
+
 }
 .sameba{
   width:310px;
@@ -539,7 +545,7 @@ margin-top: 260px;
 
 }
  .tanamedrove11{
-  color: #cccc00;
+  color: #99004d;
   margin:5px;
   margin-left: 15px;
 
@@ -551,12 +557,12 @@ margin-top: 260px;
 
 }
 .erovnuli1{
-  color:#cccc00;
+  color:#99004d;
   margin-left: 70px;
 
 }
  .erovnuli11{
-  color: #cccc00;
+  color: #99004d;
   margin:5px;
   margin-left: 15px;
 
@@ -613,4 +619,140 @@ margin-top: 260px;
 }
 .mtawmindatext22{
   margin: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ukanaponi3{
+  background-color:#eaeae1;
+
+}
+
+
+.sakartvelocarusel{
+  width: 1000px;
+  height: 450px;
+  margin-bottom: 50px;
+  margin-left: 150px;
+}
+.saqartvelolamazo{
+  text-align: center;
+  color:green;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.xevsureti3{
+  width: 1000px;
+  height: 450px;
+
+}
+.ushguli1{
+  width: 1000px;
+  height: 450px;
+  
+}
+.kanioni2{
+  width: 1000px;
+  height: 450px;
+  
+}
+.kaxeti{
+
+  background-color: #d6d6c2;
+ 
+ 
+
+}
+.kaxettext{
+  text-align: center;
+  color: #99004d;
+  margin-top:35px;
+  
+
+}
+.alaverdi{
+  width: 310px;
+  height: 210px;
+  margin-left: 23px;
+}
+.ikalto{
+  width: 310px;
+  height: 210px;
+  margin-left: 10px;
+  
+
+}
+.nekresi{
+  width: 310px;
+  height: 210px;
+  margin-left: 0.5px;
+}
+.kvarlistba{
+  width: 310px;
+  height: 210px;
+  margin-right: 2px;
+}
+
+.lopota{
+  width: 390px;
+  height: 260px;
+}
+
+.lopota1{
+
+margin-top: 30px;
+margin-left: 75px;
+}
+
+.ambasadori{
+  width: 390px;
+  height: 260px;
+}
+.ambasadoritext{
+  margin-left: 60px;
+  margin-top: 35px;
+}
+
+.mcxetacont{
+  background-color:#acac86;
+  width: 1240px;
+  margin-left: 60px;
+}
+
+.mcxetaleksi{
+  text-align: center;
+  background-color: #cbcbb3;
+  clip-path: polygon(41% 1%, 60% 0, 72% 100%, 30% 99%);
+}
+.sveticxoveli{
+  width: 380px;
+  height: 250px;
+}
+.jvrismonasteri{
+  width: 380px;
+  height: 250px;
+}
+.dedatamonasteri{
+  width: 380px;
+  height: 250px;
+}
+
+
+
+
+
+.piramida{
+  width: 240px;
+  height: 160px;
 }
