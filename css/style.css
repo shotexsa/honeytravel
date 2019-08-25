@@ -932,17 +932,37 @@ padding: 2px;
   margin-bottom: 45px;
 }
 .borjomi{
-  width:160px;
+  width:180px;
   height: 110px;
+
+  
+}
+.gomi{
+  width:180px;
+  height: 110px;
+  margin-left: 80px;
+  
+}
+.paragrapi1{
+  width:180px;
+  height: 110px;
+  margin-left: 1px;
+  
+}
+.batumi1{
+  width:180px;
+  height: 110px;
+  margin-left: 80px;
   
 }
 
 .mtamarcxena{
-  width:100px;
-  height: 80px;
-  background-color: red;
+  width:70px;
+  height: 60px;
+  margin-left: 180px;
+  background-color: white;
   clip-path: polygon(40% 0%, 40% 20%, 100% 20%, 100% 80%, 40% 80%, 40% 100%, 0% 50%);
-  margin-top: 100px;
+  margin-top: 70px;
 }
 
 
@@ -952,17 +972,149 @@ padding: 2px;
 }
 
 .zgvamarjvena{
-   width:100px;
-  height: 80px;
-  background-color: yellow;
+  width:70px;
+  height: 60px;
+  background-color: white;
   clip-path: polygon(0% 20%, 60% 20%, 60% 0%, 100% 50%, 60% 100%, 60% 80%, 0% 80%);
+  margin-top: 70px;
+  margin-left: 160px;
+}
+
+.turisti{
+  width: 90px;
+  height: 110px;
+  margin-top: 40px;
+  margin-left: 80px;
+  position:relative;
+  animation: marcxenaturisti 5s infinite;
+  animation: marjvenaturisti 5s infinite;
+}
+
+
+
+@keyframes marcxenaturisti{
+
+  from {left: 10px;}
+   to {left: 90px;}
+
+  }
+
+
+@keyframes marjvenaturisti{
+
+  from {right:  10px;}
+   to {right: 90px;}
+
+  }
+
+
+
+
+
+
+
+
+
+.tur1{
+ 
+  text-align: center;
+  padding-top: 5px;
+  width: 140px;
+  height: 100px;
+  background-color: #cbcbb3;
+  font-size: 14px;
+  margin-top: 5px;
+  clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+
+}
+.istoriuli1{
+
+  background-image:url("../img/istoriuli2.jpg");
+  width:1200px;
+  height:640px;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  border: 2px solid white;
+  margin-left: 90px;
+
+ }
+
+.juta{
+
+  background-image:url("../img/juta.jpg");
+  width:1200px;
+  height:640px;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  margin-left: 1px;
+  border: 2px solid blue;
+  margin-left: 90px;
+
+ }
+ .zgvamze{
+
+  background-image:url("../img/zgvamze.jpg");
+  width:1200px;
+  height:640px;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:top;
+  margin-left: 90px;
+  border: 2px solid blue;
+
+
+ }
+
+
+
+.istoriatext{
+  text-align: center;
+}
+
+.bunebatext{
+  text-align: center;
+}
+
+.sazgvaotext{
+  text-align: center;
+}
+
+
+.zomaday{
+  width:90px;
+  height: 35px;
+}
+
+
+.dge1{
+
+  margin-top: 30px;
+
+}
+.dge2{
   margin-top: 100px;
+  
+  
 }
-.zgvaicon{
-  width: 80px;
-  height: 120px;
+.dge3{
+  margin-top: 170px;
+  
 }
-.mtaicon{
-  width: 80px;
-  height: 120px;
+.dge4{
+  margin-top: 240px;
+  
+}
+.dge5{
+  margin-top: 310px;
+  
+}
+.dge6{
+  margin-top: 380px;
+  
+}
+.dge7{
+  margin-top: 450px;
+  
 }
