@@ -343,10 +343,10 @@ background-color:yellow;
 .abouttbilisi2{
   width: 1260px;
   height: 150px;
-  background-color: #7380a5;
+  background-color:  #b8b894;
   margin-left: 55px;
   margin-top: 10px;
-  border:2px solid #99004d;
+  border:1px solid  #5d5d3c;
   padding: 5px;
  
 }
@@ -381,6 +381,7 @@ background-color:yellow;
 .tbabout2{
   width: 1200px;
   padding: 10px;
+
 }
 
 .stingi2{
@@ -430,21 +431,21 @@ margin-top: 260px;
 
 .abanomarcxena{
   width: 350px;
-  background-color:#7380a5;
+  background-color:#a5a573;
   border:1px dashed #99004d;
   margin-left: 77px;
   
 }
 .abanomarjvena{
   width: 400px;
-  background-color:#7380a5;
+  background-color:#a5a573;
   border:1px dashed #99004d;
   margin-left: 77px;
 }
   
 .leksi1{
   height: 160px;
-  background-color: #e0e0d1;
+  background-color:   #c2c2a3;
   border:1px dashed #99004d;
   clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
 }
@@ -526,11 +527,17 @@ margin-top: 260px;
 
 }
 .museum{
-  background-color: #e6e6ff;
+  background-color: #c3b3a2;
   width: 1340px;
   height: 480px;
   margin-left: 12px;
   margin-top: 50px;
+}
+
+.trad{
+  text-align: center;
+  color: brown;
+  margin-top: 20px;
 
 }
 .tanamedrove{
@@ -540,7 +547,7 @@ margin-top: 260px;
 
 }
 .tanamedrove1{
-  color:#cccc00;
+  color:#99004d;
   margin-left: 70px;
 
 }
@@ -574,12 +581,12 @@ margin-top: 260px;
 
 }
 .etnograpiuli1{
-  color:#cccc00;
+  color:#99004d;
   margin-left: 70px;
 
 }
  .etnograpiuli11{
-  color: #cccc00;
+  color: #99004d;
   margin:5px;
   margin-left: 15px;
 
@@ -924,8 +931,8 @@ padding: 2px;
   margin-top: 10px;
 
 }
-.notend{
 
+.notend{
   color: brown;
   text-align: center;
   margin-top: 45px;
@@ -934,13 +941,14 @@ padding: 2px;
 .borjomi{
   width:180px;
   height: 110px;
+  margin-left: 40px;
 
   
 }
 .gomi{
   width:180px;
   height: 110px;
-  margin-left: 80px;
+  margin-left: 120px;
   
 }
 .paragrapi1{
@@ -959,12 +967,24 @@ padding: 2px;
 .mtamarcxena{
   width:70px;
   height: 60px;
-  margin-left: 180px;
-  background-color: white;
+  margin-left: 200px;
+  background-color: #999966;
   clip-path: polygon(40% 0%, 40% 20%, 100% 20%, 100% 80%, 40% 80%, 40% 100%, 0% 50%);
   margin-top: 70px;
 }
 
+.bax{
+  margin-left: 100px;
+}
+.bor{
+  margin-left: 175px;
+}
+.she{
+  margin-left: 50px;
+}
+.bat{
+  margin-left: 120px;
+}
 
 .mtatext{
   margin-left: 50px;
@@ -974,7 +994,7 @@ padding: 2px;
 .zgvamarjvena{
   width:70px;
   height: 60px;
-  background-color: white;
+  background-color: #999966;
   clip-path: polygon(0% 20%, 60% 20%, 60% 0%, 100% 50%, 60% 100%, 60% 80%, 0% 80%);
   margin-top: 70px;
   margin-left: 160px;
@@ -989,7 +1009,10 @@ padding: 2px;
   animation: marcxenaturisti 5s infinite;
   animation: marjvenaturisti 5s infinite;
 }
-
+.dasvenebasad{
+  text-align: center;
+  margin-top: 20px;
+}
 
 
 @keyframes marcxenaturisti{
@@ -1006,6 +1029,12 @@ padding: 2px;
    to {right: 90px;}
 
   }
+
+
+
+
+
+
 
 
 
@@ -1117,4 +1146,273 @@ padding: 2px;
 .dge7{
   margin-top: 450px;
   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ukanaponi5{
+  background-color: #ad8d85;
+}
+
+
+.davluri5{
+  width: 550px;
+  height: 300px;
+
+}
+
+.danceleksi{
+  margin-left: 200px;
+}
+
+.dancelovetext{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+
+.aboutdance{
+  text-align: center;
+  margin-bottom: 30px;
+  background-color:#6b4f47; 
+  padding: 5px;
+
+  
+}
+.dancecont{
+  background-image:url("../img/dancecont8.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:top;
+  border: 2px solid brown;
+
+ }
+
+.dancebox{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 220px;
+  height: 135px;
+  border:1px solid black;
+}
+
+
+.davluri{
+  margin-left: 5px;
+  position:relative;
+  animation:davlurii 10s infinite;
+  
+}
+
+@keyframes davlurii{
+
+   from {left: 5px;}
+   to {left: 550px;}
+
+  }
+
+.khorumi{
+  margin-left: 1000px;
+  position:relative;
+  animation:khorumii 10s infinite;
+  
+}
+
+@keyframes khorumii{
+
+   from {right: 5px;}
+   to {right: 446px;}
+
+  }
+
+.acharuli{
+  margin-left: 5px;
+  position:relative;
+  animation:acharulii 10s infinite;
+  
+}
+
+@keyframes acharulii{
+
+   from {left: 5px;}
+   to {left: 550px;}
+
+
+  }
+
+.osuri{
+  margin-left: 1000px;
+  position:relative;
+  animation:osurii 10s infinite;
+  
+}
+
+@keyframes osurii{
+
+   from {right: 5px;}
+   to {right: 446px;}
+
+  }
+.mtiuluri{
+  margin-left: 5px;
+  position:relative;
+  animation:mtiulurii 10s infinite;
+  
+}
+
+@keyframes mtiulurii{
+
+   from {left: 5px;}
+   to {left: 550px;}
+
+
+  }
+
+
+
+.davluriscont{
+ 
+  background-color: yellow;
+  width: 200px;
+  height: 140px;
+
+}
+
+
+.cekvebi{
+  width: 1300px;
+  background-color: red;
+
+}
+.cekvebisagwera{
+  
+}
+
+.qartulicalke{
+  background-color: #6b4f47;
+  width: 1260px;
+  margin-left: 100px;
+
+}
+.xorumicalke{
+  background-color:  #6b4f47;
+  width: 1260px;
+  margin-left: 2px;
+}
+.acharulicalke{
+  background-color:  #6b4f47;
+  width: 1260px;
+  margin-left: 100px;
+}
+.osuricalke{
+  background-color:    #6b4f47;
+  width: 1260px;
+  margin-left: 2px;
+}
+.mtiuluricalke{
+  background-color:     #6b4f47;
+  width: 1260px;
+  margin-left: 100px;
+}
+
+.pridona1{
+  width: 300px;
+  height: 210px;
+  padding-top:8px;
+  padding-bottom: 8px;
+  
+  margin-left: 1px;
+}
+
+.davluri4{
+  width: 300px;
+  height: 210px;
+  padding: 10px;
+  margin-right: 5px;
+}
+.qartulidancetext{
+  margin-left: 10px;
+}
+.xorumi2{
+  width: 300px;
+  height: 210px;
+  padding-top:10px;
+  
+}
+.xorumi3{
+  width: 300px;
+  height: 210px;
+  padding: 8px;
+  padding-top: 12px;
+}
+.acharuli1{
+  width: 300px;
+  height: 210px;
+  padding-top:8px;
+  padding-bottom: 8px;
+}
+
+.acharuli2{
+  width: 300px;
+  height: 210px;
+  padding: 8px;
+
+}
+
+.osuri2{
+  width: 300px;
+  height: 210px;
+  padding-top:8px;
+  padding-bottom: 8px;
+}
+.osuri3{
+  width: 300px;
+  height: 210px;
+  padding: 8px;
+}
+.mtiuluri2{
+  width: 300px;
+  height: 210px;
+  padding-top:8px;
+  padding-bottom: 8px;
+}
+
+.mtiuluri3{
+  width: 300px;
+  height: 210px;
+  padding: 8px;
+}
+
+.rachuli{
+  width: 200px;
+  height: 160px;
+}
+.kinto{
+  width: 200px;
+  height: 160px;
+}
+
+.xanjluri{
+  width: 200px;
+  height: 160px;
+}
+.parikaoba{
+  width: 200px;
+  height: 160px;
 }
