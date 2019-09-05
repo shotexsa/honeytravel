@@ -3,6 +3,7 @@
   width: 100%;
   margin:0 auto;
   border: 1px inset blue;
+
 }
 .ukanaponi{
   background-color:#5a698c;
@@ -30,10 +31,14 @@ margin-bottom: 20px;
 }
 
 .headercolor{
-  color:#1a1aff;
+  color:red;
+
 }
 .header1{
   z-index: 100;
+  position: fixed;
+  width: 1366px;
+
 
 }
 
@@ -655,7 +660,7 @@ margin-top: 260px;
 .saqartvelolamazo{
   text-align: center;
   color:green;
-  margin-top: 30px;
+  margin-top: 70px;
   margin-bottom: 30px;
 }
 
@@ -1720,4 +1725,179 @@ margin-left: 20px;
 
 
 
+
+
+
+
+
+
+
+
+
+
+.kaci8{
+
+  background-image:url("../img/kaci8.jpg");
+  width:1366px;
+  height:590px;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  position: relative;
+  
+
+
+ }
+
+
+
+ .mowevatext1{
+  width: 500px;
+  height: 400px;
+  position: absolute;
+  top: 160px;
+  right: 360px;
+  font-size: 18px;
+
+ }
+
+.daxmarebacont{
+  background-color: #f0f0f5;
+  width: 1100px;
+  margin-left: 125px;
+  margin-top: 40px;
+}
+.mizezisatauri{
+  margin-left: 50px;
+}
+.rchevacont{
+  background-color: #f0f0f5;
+  width: 1366px;
+  padding: 5px;
+  padding-bottom: 15px;
+  margin-left: 1px;
+}
+.abolebs{
+  text-align: center;
+  color: brown;
+  margin-top: 70px;
+  margin-bottom: 25px;
+}
+.daxmareba2{
+  margin-left: 10px;
+  width: 320px;
+  height: 240px;
+  padding: 15px;
+
+}
+
+.sigareti7{
+  width: 300px;
+  height: 220px;
+}
+.sigareti8{
+  
+  width: 300px;
+  height: 220px;
+}
+.sigareti9{
+
+  width: 300px;
+  height: 220px;
+}
+.sigareti10{
+  
+  width: 300px;
+  height: 220px;
+}
+
+.smoke1{
+  margin-left: 20px;
+  color: brown;
+}
+.smoke2{
+  margin-left: 90px;
+  color: brown;
+}
+.smoke3{
+  margin-left: 30px;
+  color: brown;
+}
+.smoke{
+  margin-left: 2px;
+  color: brown;
+}
+.samkaroshi{
+  background-color: #f0f0f5;
+  width: 1340px;
+  padding-top: 45px;
+  padding-bottom: 45px;
+  margin-left: 10px;
+
+}
+.samkarotext{
+  color: black;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 25px;
+}
+.daxmareba5{
+width: 350px;
+height: 260px;
+margin-left: 80px;
+}
+.daxmareba5:hover{
+  margin-top: 100px;
+
+}
+.daxmareba8{
+width: 350px;
+height: 260px;
+margin-top: 100px;
+margin-left: 150px;
+}
+.daxmareba3{
+width: 350px;
+height: 260px;
+margin-left: 220px;
+margin-top: 190px;
+
+}
+.daxmareba3:hover{
+  margin-top: 100px;
+
+}
+.dzala{
+  background-image:url("../img/dzala.jpg");
+  width:600px;
+  height:390px;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:right;
+  margin-left: 300px;
+ }
+.nosmoking{
+  width: 80px;
+  height: 50px;
+  right:270px;
+  bottom: 0px;
+  position: fixed;
+ 
+ }
+  
+
+.smoklast{
+  width: 1200px;
+  margin-top: 10px;
+  background-color: #f0f0f5;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 80px;
+}
+.sakuratitext{
+  text-align: center;
+  color: brown;
+  margin-top: 40px;
+
+}
 
