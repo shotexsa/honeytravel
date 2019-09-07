@@ -291,7 +291,7 @@ background-color:yellow;
   height: 180px;
 }
 .welcome{
-  margin-left:348px;
+  
   color:#99004d;
 }
 
@@ -314,7 +314,7 @@ background-color:yellow;
 
 }
 .meniu2{
-  margin-left:115px;
+  margin-right:205px;
 }
 
 
@@ -1435,9 +1435,10 @@ padding: 2px;
 
 
 .supra44{
+  margin-top: 90px;
   text-align: center;
   color: brown;
-  margin-top: 10px;
+ 
 }
 
 
