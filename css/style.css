@@ -1,56 +1,63 @@
 .argacdes{
-  max-width: 1366px;
+  max-width: 1200px;
   width: 100%;
   margin:0 auto;
-  border: 1px inset blue;
+  border: 1px inset #595959;
 
 }
 .ukanaponi{
-  background-color:#5a698c;
+  background-color: #a6a6a6;
 }
 .container-fluid{
-  background-color:#7380a5;
+  background-color: #8c8c8c;
+  border: 1px solid #4d4d4d;
  
 }
 .marcxena{
-width:180px;
-height:460px;
-background-color:#5a698c;
+width:190px;
+height:490px;
+background-color:  #a6a6a6;
 margin-left:20px;
 margin-top: 20px;
 margin-bottom: 20px;
+border: 1px solid #4d4d4d;
 }
 .marjvena{
 width:190px;
-height:460px;
-background-color:#5a698c;
+height:490px;
+background-color: #a6a6a6;
 margin-right: 20px;
 margin-top: 20px;
 margin-bottom: 20px;
+border: 1px solid #4d4d4d;
 
 }
 
 .headercolor{
-  color:red;
-
+  color:#001a33;
+  border: 1px solid #4d4d4d;
 }
 .header1{
+  background-color:   #8c8c8c;
   z-index: 100;
   position: fixed;
-  width: 1366px;
+  width: 100%;
+  border: 1px solid #4d4d4d;
+  max-width: 1200px;
 
 
 }
+
 
 .honeyt{
- color:blue;
-
-
+ color: #001a33;
 }
 .text1{
-  font-size: 20px;
-  color:#99004d;
-  transition: height:0.5s ease;
+  text-align: center;
+  font-size: 22px;
+  color: #001a33;
+ 
+  
 }
 
 .text1:hover{
@@ -58,37 +65,69 @@ margin-bottom: 20px;
   margin-bottom: 10px;
 }
 
+.imgtext1{
+  width: 125px;
+  margin: 0 auto;
+}
 
 .tbilisituri{
-  width: 125px;
+  width: 100%;
   height:68px;
+}
+.imgtext2{
+  width: 125px;
+  margin: 0 auto;
 }
 .georgiaturi{
-  width: 125px;
+  width: 100%;
   height:68px;
+}
+.imgtext3{
+  width: 125px;
+  margin: 0 auto;
 }
 .evropa{
-  width: 125px;
+  width: 100%;
   height:68px;
+}
+.imgtext4{
+  width: 125px;
+  margin: 0 auto;
 }
 .cooking{
-  width: 125px;
+  width: 100%;
   height:68px;
+}
+.imgtext5{
+  width: 125px;
+  margin: 0 auto;
 }
 .art{
-  width: 125px;
+  width: 100%;
   height:68px;
+}
+.imgtext6{
+  width: 125px;
+  margin: 0 auto;
 }
 .paraplan{
+  width: 100%;
+  height:68px;;
+}
+.imgtext7{
   width: 125px;
-  height:68px;
+  margin: 0 auto;
 }
 .ertoba{
-  width: 125px;
+  width: 100%;
   height:68px;
 }
-.comeback{
+.imgtext8{
   width: 125px;
+  margin: 0 auto;
+}
+.comeback{
+  width: 100%;
   height:68px;
 }
 
@@ -98,20 +137,13 @@ margin-bottom: 20px;
   margin-top: 20px;
 }
     
-
-.spend{
-  font-size: 28px;
-  color:004080;
-}
 .ba{
   
   width:640px;
   height:440px;
-  margin-top: 10px;
+  margin-top: 25px;
   margin-left:10px;
 }
-
-
 
 .shua-text:hover{
 
@@ -128,8 +160,8 @@ margin-bottom: 20px;
 
 @keyframes tbilisituri1{
 
-  from {left: 25px;}
-  to {left: 35px;}
+  from {left: -10px;}
+  to {left: -2px;}
 
   }
 
@@ -140,8 +172,8 @@ margin-bottom: 20px;
 
 @keyframes georgiaturi{
 
-  from {left: 45px;}
-  to {left: 37px;}
+  from {left: 15px;}
+  to {left: 0px;}
 
   }
   .imgtext3{
@@ -151,8 +183,8 @@ margin-bottom: 20px;
 
 @keyframes evropaa{
 
-   from {left: 25px;}
-  to {left: 35px;}
+  from {left: -10px;}
+  to {left: -2px;}
 
   }
   .imgtext4{
@@ -162,8 +194,8 @@ margin-bottom: 20px;
 
 @keyframes cooking1{
 
-  from {left: 45px;}
-  to {left: 37px;}
+  from {left: 15px;}
+  to {left: 0px;}
   }
   .imgtext5{
   position:relative;
@@ -172,8 +204,8 @@ margin-bottom: 20px;
 
 @keyframes artt{
 
-  from {left: 25px;}
-  to {left: 35px;}
+  from {left: -10px;}
+  to {left: -2px;}
   }
 .imgtext6{
   position:relative;
@@ -182,8 +214,8 @@ margin-bottom: 20px;
 
 @keyframes paraplan{
 
-  from {left: 45px;}
-  to {left: 37px;}
+  from {left: 15px;}
+  to {left: 0px;}
   }
 .imgtext7{
   position:relative;
@@ -192,8 +224,8 @@ margin-bottom: 20px;
 
 @keyframes ertobaa{
 
-  from {left: 25px;}
-  to {left: 35px;}
+  from {left: -10px;}
+  to {left: -2px;}
 
   }
    .imgtext8{
@@ -203,17 +235,11 @@ margin-bottom: 20px;
 
 @keyframes comeback{
 
-  from {left: 45px;}
-  to {left: 37px;}
+  from {left: 15px;}
+  to {left: 0px;}
   }
 
-.gverdibolo1{
 
-width:1800px;
-height: 140px;
-background-color:yellow;
-
-}
 .shuatext2{
   background-color:#ac3971;
   clip-path: polygon(5% 25%, 21% 2%, 53% 14%, 81% 0, 97% 13%, 98% 42%, 86% 66%, 72% 83%, 47% 100%, 48% 100%, 23% 78%, 12% 57%);
@@ -221,20 +247,7 @@ background-color:yellow;
   margin-bottom: 0;
   height: 150px;
 }
-.about{
-  width:1830px;
-  height:400px;
-  background-color: #a0a0c5;
-  margin-left: 0;
-}
 
-.maingeorgia{
-  width:1835px;
-  height:600px;
-  background-color:yellow;
-  margin-left: 0;
-
-}
 
 .honey{
   width: 60px;
@@ -243,78 +256,98 @@ background-color:yellow;
 .viber{
   width:30px;
   height:20px;
-  margin-left: 270px;
+  margin-left: 160px;
   margin-top: 10px;
  
 }
 .viber555{
 
-  color: #1a1aff;
+  color:  #001a33;
   margin-top: 10px;
   margin-left: 8px;
 }
-
-
-
-.f{
-  background-image:url("../img/poto1.jpeg");
-  height:200px;
-  width:200px;
-  background-repeat:no-repeat;
-  background-size:cover;
-  background-position:center;
-  display:inline-block;
-}
-
- /*background-image:url("../img/cover.jpg");
-  height:200px;
-  width:200px;
-  background-repeat:no-repeat;
-  background-size:cover;
-  background-position:center;
-  display:inline-block;
-*/
-
-.meniumarjvena{
-  margin-left: 300px;
-}
-
 .saxeli{
   border:2px;
 }
-.home1{
-  margin-left: 600px;
-}
 
-.batumi{
-  width:250px;
-  height: 180px;
-}
 .welcome{
   
-  color:#99004d;
+  color: #001a33;
+  text-align: center;
 }
-
-.ull{
-  background-color: #7380a5
+.meniu2{
+  margin-left: 95px;
 }
-
 
 .mtavari1{
-  margin-left: 350px;
+  margin-left: 320px;
 }
 .logo7{
   width: 55px;
   height:40px;
-  margin-left: 5px;
+  margin-left: 8px;
 }
 
 .gvari{
   margin-top: 1px;
 
 }
-.meniu2{
-  margin-right:205px;
+.page1left{
+  width: 500px;
+  height: 260px;
+  background-color: #b3b3b3;
+  margin-left: 15px;
+  padding: 5px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  border: 1px solid #4d4d4d;
+  
+ 
+  
+}
+.pageright{
+  width: 500px;
+  height: 260px;
+  background-color: #b3b3b3;
+  margin-left:  50px;
+  margin-top: 30px;
+  margin-bottom: 7px;
+  border: 1px solid #4d4d4d;
+  
+
+}
+.dablamtliani{
+  background-color: #8c8c8c;
+  margin: 0 auto;
+  margin-top: 30px;
+  border: 1px solid #4d4d4d;
+}
+
+.shotex{
+  
+  margin-left:  220px;
+  
+  
+
+}
+.send1{
+  background-color:  #8c8c8c;
+
+}
+
+.locatia{
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+
+.sakontaqto{
+  margin-top: -180px;
+  margin-left: 300px;
+}
+
+.location{
+  text-align: center;
 }
 
 
@@ -328,42 +361,52 @@ background-color:yellow;
 
 
 
-.ukanaponi2{
-  background-color:#e0e0d2;
+.ukanaponi1{
+  background-color:   #d7cec1;
 }
+.header2{
+  background-color: #c3b6a2;
+  position: fixed;
+  z-index: 999;
+  width: 100%;
 
+
+}
 
 .tbilisi2{
   background-image:url("../img/tbilisi2.jpg");
-  width:1260px;
+  max-width:1000px;
   height:500px;
+  margin: 0 auto;
   background-repeat:no-repeat;
   background-size:cover;
   background-position:center;
-  margin-left: 55px;
+ 
  }
 
-  
-
 .abouttbilisi2{
-  width: 1260px;
-  height: 150px;
-  background-color:  #b8b894;
-  margin-left: 55px;
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color:  #c3b3a2;
   margin-top: 10px;
-  border:1px solid  #5d5d3c;
+  border:1px solid #7a7a52;
   padding: 5px;
  
 }
 
 .tb2{
-  margin-top: 40px;
+  margin-top: 50px;
   margin-bottom: 40px;
   text-align: center;
   font-size: 50px;
   color:#99004d;
+  
 }
+.tbabout2{
+  width: 100%;
+  padding: 10px;
 
+}
 
 .tb2{
   position:relative;
@@ -382,29 +425,19 @@ background-color:yellow;
   margin-top: 100px;
   margin-bottom:30px;
 }
-
-.tbabout2{
-  width: 1200px;
-  padding: 10px;
-
-}
-
 .stingi2{
-  width:280px;
-  height:430px;
+  width:100%;
+  height:330px;
   margin:7px;
-  margin-top:15px;
+  margin-top:60px;
 }
 .stingtext{
-  width: 250px;
-  margin:10px;
-  margin-top:50px;
-  padding: 10px;
+  width: 100%;
+  
 }
 .stingtext1{
-  color: #99004d;
   margin-top: 10px;
-  margin-left: 55px;
+  margin-left: 20px;
 
 }
 .abanotubani2{
@@ -415,65 +448,72 @@ background-color:yellow;
   
 }
 .pushkini2{
-  width:360px;
+  width:100%;
   height:230px;
-  margin:8px;
-  margin-left: 100px;
   font-size: 20px;
-}
-.pushkiniwrite{
-margin-top: 260px;
 }
 
 .abanotubanitext{
-  width: 280px;
+  width: 100%;
   margin-top: 10px;
-  padding: 10px;
  
-  
 }
-
-
 .abanomarcxena{
-  width: 350px;
-  background-color:#a5a573;
-  border:1px dashed #99004d;
-  margin-left: 77px;
+  max-width: 450px;
+  height: 440px;
+  margin-left: 80px;
+  margin-top: 50px;
+  background-color:  #c3b3a2;
+  border: 1px solid   #7a7a52;
   
 }
+
+.puskiniwrite{
+  margin-left: 130px;
+  margin-top: 30px;
+}
+.abanowarwera{
+  margin-left: 490px;
+  margin-top: 40px;
+  color:brown;
+  font-size: 15px;
+
+}
+
 .abanomarjvena{
-  width: 400px;
-  background-color:#a5a573;
-  border:1px dashed #99004d;
-  margin-left: 77px;
-}
+  max-width: 550px;
+  height: 440px;
+  margin-left: 60px;
+  margin-top: 50px;
+  background-color:  #c3b3a2;
+  border: 1px solid   #7a7a52;
   
+  }
+
 .leksi1{
   height: 160px;
-  background-color:   #c2c2a3;
-  border:1px dashed #99004d;
+  background-color:  #b9aa92;
   clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
 }
 
 .leksi11{
-  margin-left: 540px;
+  margin-top: 20px;
+  text-align: center;
   color:  #99004d;
 }
 
 .eklesiebi{
-  background-color: #c2c2a3;
-  width: 1350px;
-  margin-left: 8px;
+  background-color: #c3b3a2;
+  max-width: 1200px;
+  margin: 0 auto;
+  border: 1px solid   #7a7a52;
 
 }
 .sameba{
-  width:310px;
+  width:100%;
   height:210px;
+  border: 1px solid brown;
 
-}
-.sameba1{
-  color:#661a00;
- 
 }
  .sameba11{
   color: #661a00;
@@ -482,7 +522,7 @@ margin-top: 260px;
 }
 .narikala1{
   color:#661a00;
-  margin-left: 130px;
+  text-align: center;
 
 }
  .narikala11{
@@ -491,24 +531,24 @@ margin-top: 260px;
 
 }
 
+.narikalacolor{
+  background-color: #b9aa92;
+
+
+}
+
 .narikala{
-  width:310px;
+  width:100%;
   height:210px;
-  margin-left: 5px;
- 
+  border: 1px solid brown; 
 }
 .metexi{
-  width:310px;
+  width:100%;
   height:210px;
+  border: 1px solid brown;
  
 }
 
-
-.metexi1{
-  color: #661a00;
-  margin-left: 130px;
-
-}
  .metexi11{
   color: #661a00;
   margin:12px;
@@ -516,16 +556,12 @@ margin-top: 260px;
 }
 
 .sioni{
-  width:310px;
+  width:100%;                          
   height:210px;
+  border: 1px solid brown;
  
 }
 
-.sioni1{
-  color:#661a00;
-  margin-left: 130px;
-
-}
  .sioni11{
   color: #661a00;
   margin:12px;
@@ -533,67 +569,54 @@ margin-top: 260px;
 }
 .museum{
   background-color: #c3b3a2;
-  width: 1340px;
-  height: 480px;
-  margin-left: 12px;
-  margin-top: 50px;
+  max-width: 1200px;
+  margin: 0 auto;
+  border: 1px solid#7a7a52;
 }
 
 .trad{
   text-align: center;
   color: brown;
   margin-top: 20px;
+  margin-bottom: 30px;
 
 }
 .tanamedrove{
-  width:400px;
+  width:100%;
   height: 250px;
-  margin-left: 15px;
-
-}
-.tanamedrove1{
-  color:#99004d;
-  margin-left: 70px;
 
 }
  .tanamedrove11{
-  color: #99004d;
   margin:5px;
-  margin-left: 15px;
 
 }
 .erovnuli{
-  width:400px;
+  width:100%;
   height: 250px;
-  margin-left: 15px;
+ 
 
 }
 .erovnuli1{
-  color:#99004d;
-  margin-left: 70px;
+  
+  text-align: center;
 
 }
  .erovnuli11{
-  color: #99004d;
+  
   margin:5px;
-  margin-left: 15px;
+  
 
 }
 .etnograpiuli{
-  width:400px;
+  width:100%;
   height: 250px;
-  margin-left: 15px;
-
-}
-.etnograpiuli1{
-  color:#99004d;
-  margin-left: 70px;
+ 
 
 }
  .etnograpiuli11{
-  color: #99004d;
+ 
   margin:5px;
-  margin-left: 15px;
+  
 
 }
 .mtw22{
@@ -611,10 +634,9 @@ margin-top: 260px;
 
 }
 .leksi2{
-  background-color: #c2c2a3;
-  width: 660px;
+  
+  text-align: center;
   color:#661a00;
-  margin-left: 400px;
   margin-top:50px;
   margin-bottom: 50px;
   font-size: 20px;
@@ -623,6 +645,7 @@ margin-top: 260px;
   background-color: #c2c2a3;
   margin-left: 30px;
   width: 1310px;
+
   
 }
 .mtawmindatext2{
@@ -633,6 +656,23 @@ margin-top: 260px;
   margin: 20px;
 }
 
+.mtawmindaaa{
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: #c3b3a2;
+  border: 1px solid#7a7a52;
+}
+
+
+.mtawminda22{
+  width: 100%;
+  height:350px;
+}
+
+.mtawminda2222{
+  width: 100%;
+  height:350px;
+}
 
 
 
@@ -644,18 +684,29 @@ margin-top: 260px;
 
 
 
+
+
+.header3{
+  background-color: #ccccb3;
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+
+
+}
 
 .ukanaponi3{
-  background-color:#eaeae1;
+  background-color:#d6d6c2;
 
 }
 
 
 .sakartvelocarusel{
-  width: 960px;
+  max-width: 1000px;
+  margin: 0 auto;
   height: 470px;
   margin-bottom: 50px;
-  margin-left: 200px;
+  
 }
 .saqartvelolamazo{
   text-align: center;
@@ -681,10 +732,9 @@ margin-top: 260px;
 }
 .kaxeti{
 
-  background-color: #d6d6c2;
- 
- 
-
+  background-color:  #ccccb3;
+  border:1px solid #7a7a52;
+  max-width: 1200px;
 }
 .kaxettext{
   text-align: center;
@@ -695,52 +745,49 @@ margin-top: 260px;
 
 }
 .alaverdi{
-  width: 310px;
+  width: 100%;
   height: 210px;
-  margin-left: 23px;
   border: 2px solid #1a6600
 }
 .ikalto{
-  width: 310px;
+  width: 100%;
   height: 210px;
-  margin-left: 10px;
   border: 2px solid #1a6600
   
 
 }
 .nekresi{
-  width: 310px;
+  width: 100%;
   height: 210px;
-  margin-left: 0.5px;
   border: 2px solid #1a6600
 }
 .kvarlistba{
-  width: 310px;
+  width: 100%;
   height: 210px;
   margin-left: 1px;
   border: 2px solid #1a6600
 }
 
 .lopota{
-  width: 390px;
-  height: 260px;
-  border: 2px solid #1a6600
+  width: 100%;
+  height: 210px;
+  border: 2px solid #1a6600;
 }
 
 .lopota1{
 
 margin-top: 115px;
-margin-left: 75px;
 padding: 2px;
 }
 
 .ambasadori{
-  width: 390px;
-  height: 260px;
-  border: 2px solid #1a6600
+  width: 100%;
+  height: 210px;
+  margin-top: 30px;
+  border: 2px solid #1a6600;
 }
 .ambasadoritext{
-  margin-left: 60px;
+  
   margin-top: 115px;
   padding: 2px;
 }
@@ -768,21 +815,21 @@ padding: 2px;
 
 
 .lopotasat{
-  margin-left: 170px;
+  text-align: center;
   margin-bottom: 50px;
 }
 
 .ambasadorsat{
-   margin-left: 110px;
-   margin-bottom: 50px;
+   text-align: center;
 }
 
 
 
 .mcxetacont{
-  background-color:#c2c2a3;
-  width: 1240px;
-  margin-left: 60px;
+  background-color:#ccccb3;
+  max-width: 1200px;
+  margin: 0 auto;
+  border:1px solid #7a7a52;
 }
 
 .mcxetaleksi{
@@ -790,8 +837,8 @@ padding: 2px;
   height: 160px;
   margin-top: 20px;
   text-align: center;
-  background-color: #acac86;
-  clip-path: polygon(20% 0%, 80% 0%, 95% 100%, 5% 100%);
+  background-color: #ccccb3;
+  clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
 }
 
 
@@ -806,21 +853,20 @@ padding: 2px;
 .mcxeta22{
   color:#602060;
   padding: 2px;
-  
 }
 
 .sveticxoveli{
-  width: 380px;
+  width: 100%;
   height: 250px;
   border: 2px solid brown;
 }
 .jvrismonasteri{
-  width: 380px;
+  width: 100%;
   height: 250px;
   border: 2px solid #260099;
 }
 .dedatamonasteri{
-  width: 380px;
+  width: 100%;
   height: 250px;
   border: 2px solid #00661a;
 }                                               
@@ -828,11 +874,13 @@ padding: 2px;
 .turicont{
   text-align: center;
   color:#b3003b;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
-
+                      
 .piramida{
-  width: 240px;
+  width: 220px;
   height: 160px;
   border: 1px solid green;
 }
@@ -841,8 +889,9 @@ padding: 2px;
   height: 164px;
 }
 .piramidacont{
- background-color:  #acac86;
- border:1px solid red;
+ max-width:1200px;
+ background-color:  #ccccb3;
+ border:1px solid #7a7a52;
 
 }
 .tushetpir{
@@ -864,34 +913,44 @@ padding: 2px;
   margin-left: 58px;
 }
 .stropi1{
- margin-left: 460px;
- margin-top: 40px;
+ 
  color: #99004d;
+ margin-top: 40px;
 }
 .stropi2{
- margin-left: 460px;
- margin-top: 40px;
+ 
  color: #99004d;
+ margin-top: 30px;
 }
 .stropi3{
- margin-left: 230px;
- margin-top: 40px;
+
  color: #99004d;
+ margin-top: 40px;
 
 }
 
 .piramidatext{
   color: #660033;
-  margin-top: 5px;
-  margin-left: 30px;
   text-align: center;
+  width: 100%;
 }
-
+.dashbashiplace{
+  margin-left: 90px;
+}
+.tushetiplace{
+  margin-left: 25px;
+}
+.svanetiplace{
+  margin-left: 55px;
+}
+.ushguliplace{
+  margin-left: 25px;
+}
 .piramidatext:hover{
   color: red;
 }
 .alaverditext{
-  color: #660033;
+   color: #660033;
    margin-left: 85px;
    margin-top: 5px;
 }
@@ -900,39 +959,43 @@ padding: 2px;
 }
 
 .kazbegi{
-  width: 500px;
+  width: 100%;
   height: 300px;
-  margin: 20px;
+
 }
 .gelati{
-  width: 500px;
+  width: 100%;
   height: 300px;
-  margin: 20px;
+  
 }
 
 
 
 .samebaleft{
-  background-color:#b8b894;
-  margin-left: 60px;
+  background-color:#ccccb3;
+  max-width: 580px;
+  margin: 0 auto;
+  border:1px solid #7a7a52;
 
 }
 
 .gelatiright{
-  background-color:#b8b894;
-  margin-left: 110px;
+  background-color:#ccccb3;
+  max-width: 580px;
+  margin: 0 auto;
+  border:1px solid #7a7a52;
 
 }
 
 .samebatext{
   color: brown;
-  margin-left: 210px;
+  text-align: center;
   margin-top: 10px;
 }
 
 .gelatitext{
   color: brown;
-  margin-left: 210px;
+  text-align: center;
   margin-top: 10px;
 
 }
@@ -943,76 +1006,77 @@ padding: 2px;
   margin-top: 45px;
   margin-bottom: 45px;
 }
+
+
+
+.whererest{
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color:  #ccccb3;
+  padding-bottom: 20px;
+}
 .borjomi{
   width:180px;
   height: 110px;
-  margin-left: 40px;
+ 
 
   
 }
 .gomi{
   width:180px;
   height: 110px;
-  margin-left: 120px;
+  
   
 }
 .paragrapi1{
   width:180px;
   height: 110px;
-  margin-left: 1px;
+ 
   
 }
 .batumi1{
   width:180px;
   height: 110px;
-  margin-left: 80px;
+ 
   
 }
 
 .mtamarcxena{
   width:70px;
   height: 60px;
-  margin-left: 200px;
-  background-color: #999966;
+  background-color:   #b8b894;
   clip-path: polygon(40% 0%, 40% 20%, 100% 20%, 100% 80%, 40% 80%, 40% 100%, 0% 50%);
   margin-top: 70px;
 }
 
 .bax{
-  margin-left: 100px;
-}
-.bor{
-  margin-left: 175px;
-}
-.she{
-  margin-left: 50px;
-}
-.bat{
-  margin-left: 120px;
+ text-align: center;
 }
 
+
+.mtatex{
+  padding-top:15px;
+}
 .mtatext{
-  margin-left: 50px;
-  margin-top: 100px;
+  padding-top: 15px;
 }
 
 .zgvamarjvena{
   width:70px;
   height: 60px;
-  background-color: #999966;
+  background-color:   #b8b894;
   clip-path: polygon(0% 20%, 60% 20%, 60% 0%, 100% 50%, 60% 100%, 60% 80%, 0% 80%);
   margin-top: 70px;
-  margin-left: 160px;
+ 
 }
 
 .turisti{
   width: 90px;
   height: 110px;
   margin-top: 40px;
-  margin-left: 80px;
   position:relative;
   animation: marcxenaturisti 5s infinite;
-  animation: marjvenaturisti 5s infinite;
+ 
 }
 .dasvenebasad{
   text-align: center;
@@ -1021,19 +1085,423 @@ padding: 2px;
 
 
 @keyframes marcxenaturisti{
+ 
+  0%   { left:5px; left:20px;}
+  25%  { left:20px; left:45px;}
+  50%  { left:45px; left:60px;}
+  75%  { right: 1px; right:4px;}
+  100% { right: 4px; right:10px;}
 
-  from {left: 10px;}
-   to {left: 90px;}
+}
+
+
+
+
+
+.header4{
+  background-color: #c3b3a2;
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+
+
+}
+
+.ukanaponi4{
+  background-color: #d7cec1;
+
+}
+
+.supra44{
+  margin-top: 60px;
+  text-align: center;
+  color: brown;
+ 
+}
+
+.sakvebi{
+  background-color:   #c3b3a2;
+  padding-bottom: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.sxvadasxva4{
+  text-align: center;
+  color: #3c3c2a;
+  margin-bottom: 20px;
+}
+
+.kaxuri{
+   width: 320px;
+   height: 200px;
+}
+.kaxuri44{
+   width: 320px;
+   height: 220px;
+   
+ }
+
+.kaxuritext{
+  text-align: center;
+}
+.imeruli{
+   width: 320px;
+   height: 220px;
+  
+}
+.imeruli44{
+   width: 320px;
+   height: 220px;
+   
+}
+
+.imerulitext{
+ text-align: center;
+}
+.megruli{
+   width: 320px;
+   height: 200px;
+   
+}
+.megrulitext{
+  text-align: center;
+}
+.megruli44{
+   width: 320px;
+   height: 220px;
+   
+}
+
+.xachapuri{
+   width: 320px;
+   height: 220px;
+   
+  
+}
+.acharuli44{
+   width: 320px;
+   height: 220px;
+  
+  
+}
+.acharultext{
+  text-align: center;
+}
+
+.moxeuri{
+  width: 320px;
+  height: 220px;
+  
+}
+.mtiulurtext{
+  text-align: center;
+}
+.mtiuluri44{
+
+   width: 320px;
+   height: 220px;
+   
+}
+
+.svanuri{
+   width: 320px;
+   height: 220px;
+   
+}
+.svanurtext{
+  text-align: center;
+}
+.svanuri44{
+   width: 320px;
+   height: 220px;
+}
+
+.xinkalcont{
+  background-color: #c3b3a2;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.martlac{
+  margin-top: 30px;
+}
+.xinkali2{
+  width: 290px;
+  height: 220px;
+  margin-left: 20px;
+  margin-top: 35px;
+  
+
+}
+.xinkali{
+  width: 290px;
+  height: 220px;
+  margin-left: 20px;
+  margin-top: 35px;
+
+
+}
+.mozadebaxink{
+  margin: 35px;
+  font-size: 18px;
+  color: brown;
+  text-align: center;
+
+}
+.xinkali5{
+  width: 290px;
+  height: 220px;
+  margin-left: 20px;
+  margin-top: 35px;
+
+}
+.xinkali4{
+  width: 290px;
+  height: 220px;
+  margin-left: 20px;
+  margin-top: 35px;
+}
+
+.suprawarmodgena{
+  text-align: center;
+  margin-top: 20px;
+
+}
+
+.tvishi{
+  width: 200px;
+  height: 140px;
+
+  
+}
+
+.axasheni{
+  width: 200px;
+  height: 140px;
+  
+}
+
+.kindzmarauli{
+  width: 200px;
+  height: 140px;
+  
+
+}
+
+.mukuzani{
+  width: 200px;
+  height: 140px;
+  
+}
+
+.muskati{
+  width: 200px;
+  height: 140px;
+  
+  
+
+}
+.colikauri{
+  width: 200px;
+  height: 140px;
+  
+}
+.xvanchkara{
+  width: 200px;
+  height: 140px;
+  
+}
+.saperavi{
+  width: 200px;
+  height: 140px;
+  
+}
+.kisi{
+  width: 200px;
+  height: 140px;
+  
+}
+.rkawitela{
+  width: 200px;
+  height: 140px;
+  
+}
+.mwvane{
+  width: 200px;
+  height: 140px;
+  
+}
+.usaxelauri{
+  width: 200px;
+  height: 140px;
+  
+}
+
+.gvinotext1{
+  margin-left: 70px;
+}
+.gvinotext2{
+  margin-left: 60px;
+ 
+
+}
+.gvinotext3{
+  margin-left: 30px;
+  
+}
+.gvinotext4{
+  margin-left: 40px;
+  
+}
+.gvinotext5{
+  margin-left: 50px;
+  
+}
+.gvinotext6{
+  margin-left: 40px;
+  
+}
+.gvinotext7{
+  margin-left: 40px;
+  
+}
+.gvinotext8{
+  margin-left: 45px;
+
+}
+.gvinotext9{
+  margin-left: 70px;
+  
+}
+.gvinotext10{
+  margin-left: 40px;
+  
+}
+.gvinotext11{
+  margin-left: 55px;
+  
+}
+.gvinotext12{
+  margin-left: 40px;
+  
+
+}
+
+.vazicover{
+
+  background-color: #c3b3a2;
+  max-width:1200px;
+  height: 650px;
+ }
+
+
+.leksiwine{
+  margin-top: 20px;
+  margin-bottom: 40px;
+  margin-left: 800px;
+}
+
+
+
+.rtveli3{
+  width: 220px;
+  height: 160px;
+}
+.dawurva3{
+  width: 220px;
+  height: 160px;
+}
+.dawurva2{
+  width: 220px;
+  height: 160px;
+}
+.churchxela1{
+  width: 220px;
+  height: 160px;
+}
+.churchxelacont{
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 30px;
+  padding-top: 10px;
+  background-color: #c3b3a2;
+}
+.churchtext{
+  text-align: center;
+}
+
+
+
+
+
+
+.winedancebok{
+  background-color: #c3b3a2;
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-top: 30px;
+  position: relative;
+  border: 1px solid brown;
+}
+
+
+
+.wineleft{
+  width: 70px;
+  height: 120px;
+  margin-left: 0px;
+  position:relative;
+  animation:wineleftcekva 10s infinite;
+  
+}
+
+@keyframes wineleftcekva{
+
+   from {left: 5px;}
+   to {left: 465px;}
 
   }
 
 
-@keyframes marjvenaturisti{
+  .wineright{
+  width: 70px;
+  height: 120px;
+  margin-right: 0px;
+  position:absolute;
+  animation:winelrightcekva 10s infinite;
+  
+}
 
-  from {right:  10px;}
-   to {right: 90px;}
+@keyframes winelrightcekva{
+
+   from {left: 1000px;}
+   to {left: 500px;}
 
   }
+
+.gvinoo{
+  background-image:url("../img/gvinoo.jpg");
+  max-width:1000px;
+  margin: 0 auto;
+  height:790px;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  position: relative;
+  
+ }
+
+
+.sasmelitext{
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: #c3b3a2;
+  padding: 2px;
+  border: 1px solid brown;
+}
+
 
 
 
@@ -1421,308 +1889,6 @@ padding: 2px;
   width: 200px;
   height: 160px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-.supra44{
-  margin-top: 90px;
-  text-align: center;
-  color: brown;
- 
-}
-
-
-.sakvebi{
-  background-color:   #d5d5c3;
-  padding-bottom: 30px;
-}
-.sxvadasxva4{
-  text-align: center;
-  color: #3c3c2a;
-  margin-bottom: 20px;
-}
-
-
-
-
-.kaxuri{
-  width: 210px;
-  height: 160px;
-}
-.kaxuri44{
-  margin-left: 20px;
-}
-.kaxuri44:hover{
-  margin-left: 30px;
-
-}
-.kaxuritext{
-  margin-left: 80px;
-}
-.imeruli{
-   width: 210px;
-   height: 175px;
-   margin-left: 90px;
-}
-.imeruli44{
-margin-left: 20px;
-}
-.imeruli44:hover{
-  margin-left: 30px;
-
-}
-
-.imerulitext{
-  margin-left: 160px;
-}
-.megruli{
-   width: 210px;
-   height: 160px;
-   margin-left: 170px;
-}
-.megrulitext{
-  margin-left: 230px;
-}
-.megruli44{
-  margin-left: 30px;
-}
-
-.megruli44:hover{
-  margin-left: 40px;
-}
-
-.xachapuri{
-  width: 210px;
-  height: 160px;
-  margin-left: 220px;
-}
-.acharuli44{
-  margin-left: 20px;
-}
-.acharultext{
-  margin-left: 290px;
-}
-.acharuli44:hover{
-  margin-left:30px;
-}
-
-.moxeuri{
-  width: 210px;
-  height: 160px;
-  margin-left: 200px;
-}
-.mtiulurtext{
-  margin-left: 260px;
-}
-.mtiuluri44{
-  margin-right: 350px;
-}
-.mtiuluri44:hover{
-  margin-left:20px;
-}
-
-.svanuri{
-   width: 210px;
-   height: 160px;
-   margin-left: 270px;
-}
-.svanurtext{
-  margin-left: 360px;
-}
-.svanuri44{
-  margin-left: 5px;
-}
-.svanuri44:hover{
-  margin-left:10px;
-}
-
-
-
-
-.xinkalcont{
-  background-color: #abab87;
-}
-
-.xinkali2{
-  width: 290px;
-  height: 210px;
-  margin-left: 20px;
-  margin-top: 35px;
-  
-
-}
-.xinkali{
-  width: 290px;
-  height: 210px;
-  margin-left: 20px;
-  margin-top: 35px;
-
-
-}
-.mozadebaxink{
-  font-size: 18px;
-  color: brown;
-  margin-left: 760px;
-
-}
-.xinkali5{
-  width: 290px;
-  height: 210px;
-  margin-left: 20px;
-  margin-top: 35px;
-
-}
-.xinkali4{
-   width: 290px;
-  height: 210px;
-  margin-left: 20px;
-  margin-top: 35px;
-}
-
-
-.tvishi{
-  width: 200px;
-  height: 140px;
-  margin-left: 20px;
-}
-
-.axasheni{
-  width: 200px;
-  height: 140px;
-  margin-left: 400px;
-}
-
-.kindzmarauli{
-  width: 200px;
-  height: 140px;
-  margin-left: 400px;
-
-}
-
-.mukuzani{
-  width: 200px;
-  height: 140px;
-  margin-left: 400px;
-}
-
-.muskati{
-  width: 200px;
-  height: 140px;
-  margin-left: 20px;
-
-}
-.colikauri{
-  width: 200px;
-  height: 140px;
-  margin-left: 20px;
-}
-.xvanchkara{
-  width: 200px;
-  height: 140px;
-  margin-left: 400px;
-}
-.saperavi{
-  width: 200px;
-  height: 140px;
-  margin-left: 400px;
-}
-.kisi{
-  width: 200px;
-  height: 140px;
-  margin-left: 20px;
-}
-.rkawitela{
-  width: 200px;
-  height: 140px;
-  margin-left: 20px;
-}
-.mwvane{
-  width: 200px;
-  height: 140px;
-  margin-left: 20px;
-}
-.usaxelauri{
-  width: 200px;
-  height: 140px;
-  margin-left: 405px;
-}
-
-.gvinotext1{
-  margin-left: 80px;
-}
-.gvinotext2{
-  margin-left: 460px;
- 
-
-}
-.gvinotext3{
-  margin-left: 440px;
-  
-}
-.gvinotext4{
-  margin-left: 450px;
-  
-}
-.gvinotext5{
-  margin-left: 70px;
-  
-}
-.gvinotext6{
-  margin-left: 70px;
-  
-}
-.gvinotext7{
-  margin-left: 450px;
-  
-}
-.gvinotext8{
-  margin-left: 450px;
-
-}
-.gvinotext9{
-  margin-left: 80px;
-  
-}
-.gvinotext10{
-  margin-left: 70px;
-  
-}
-.gvinotext11{
-  margin-left: 80px;
-  
-}
-.gvinotext12{
-  margin-left: 440px;
-  
-
-}
-
-.vazicover{
-
-  background-image:url("../img/vazi47.jpg");
-  width:1360px;
-  height:680px;
-  background-repeat:no-repeat;
-  background-size:cover;
-  background-position:center;
-  
-
-
- }
-
-
-
-
 
 
 
