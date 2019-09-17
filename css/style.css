@@ -1511,132 +1511,6 @@ padding: 2px;
 
 
 
-
-
-
-
-
-
-
-
-
-
-.tur1{
- 
-  text-align: center;
-  padding-top: 5px;
-  width: 140px;
-  height: 100px;
-  background-color: #cbcbb3;
-  font-size: 14px;
-  margin-top: 5px;
-  clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
-
-}
-.istoriuli1{
-
-  background-image:url("../img/istoriuli2.jpg");
-  width:1200px;
-  height:640px;
-  background-repeat:no-repeat;
-  background-size:cover;
-  background-position:center;
-  border: 2px solid white;
-  margin-left: 90px;
-
- }
-
-.juta{
-
-  background-image:url("../img/juta.jpg");
-  width:1200px;
-  height:640px;
-  background-repeat:no-repeat;
-  background-size:cover;
-  background-position:center;
-  margin-left: 1px;
-  border: 2px solid blue;
-  margin-left: 90px;
-
- }
- .zgvamze{
-
-  background-image:url("../img/zgvamze.jpg");
-  width:1200px;
-  height:640px;
-  background-repeat:no-repeat;
-  background-size:cover;
-  background-position:top;
-  margin-left: 90px;
-  border: 2px solid blue;
-
-
- }
-
-
-
-.istoriatext{
-  text-align: center;
-}
-
-.bunebatext{
-  text-align: center;
-}
-
-.sazgvaotext{
-  text-align: center;
-}
-
-
-.zomaday{
-  width:90px;
-  height: 35px;
-}
-
-
-.dge1{
-
-  margin-top: 30px;
-
-}
-.dge2{
-  margin-top: 100px;
-  
-  
-}
-.dge3{
-  margin-top: 170px;
-  
-}
-.dge4{
-  margin-top: 240px;
-  
-}
-.dge5{
-  margin-top: 310px;
-  
-}
-.dge6{
-  margin-top: 380px;
-  
-}
-.dge7{
-  margin-top: 450px;
-  
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
 .header5{
   background-color: #c4a7a1;
   position: fixed;
@@ -1904,6 +1778,187 @@ padding: 2px;
 
 
 
+.header6{
+  background-color: #d6d6c2;
+  position: fixed;
+  max-width: 1200px;
+  width: 100%;
+  z-index: 999;
+}
+
+.ukanaponi6{
+  background-color:  #ebebe0;
+}
+
+.parixtext{
+  text-align: center;
+  color:  brown;
+  margin-top: 80px;
+  font-size: 40px;
+}
+.parizi11{
+  background-image:url("../img/parizi11.jpg");
+  max-width:1110px;
+  height:440px;
+  margin: 0 auto;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  margin-bottom: 60px;
+  border:1px solid  #990000;
+ }
+
+
+ .parizi11:hover{
+  background-image:url("../img/parizlove1.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:bottom;
+ 
+
+ }
+
+ .parizicont{
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color:   #e1e1d0;
+  
+ }
+
+.parizi5{
+width: 100%;
+height: 260px;
+border:1px solid green;
+}
+.parizi5:hover{
+   border:3px solid green;
+
+}
+
+.parizi10{
+  width: 100%;
+  height: 260px;
+  border:1px solid green;
+}
+.parizi10:hover{
+   border:3px solid green;
+
+}
+
+.monmarti{
+ width: 100%;
+ height: 260px;
+ border:1px solid green;
+}
+.monmarti:hover{
+   border:3px solid green;
+}
+
+.mulen1{
+  width: 100%;
+  height: 350px;
+}
+.mulen1:hover{
+   border:3px solid red;
+}
+.luvri1{
+  width: 100%;
+  height: 350px;
+}
+.luvri1:hover{
+   border:3px solid  #ffb366;
+}
+
+.mulencont{
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: #e1e1d0;                 
+  margin-bottom: 30px;
+  border:1px solid brown;
+}
+
+.paketebisconteineri{
+  background-color:   #ebebe0;
+
+}
+
+.paketimarcxniv{
+
+  
+}
+.paketebisback6{
+ 
+  background-color: #e1e1d0;
+  max-width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border:1px solid #c3c3a2 ;
+  margin-bottom: 20px;
+}
+
+.marjvenakaeti{
+  margin-left: 140px;
+}
+
+.polskaleft{
+  background-color: #e1e1d0;
+  max-width: 540px;
+  margin:0 auto;
+  padding-top: 5px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 1px solid #8c8c5a;
+  margin-bottom: 40px;
+}
+.polskaright{
+  background-color: #e1e1d0;
+  max-width: 540px;
+  margin:0 auto;
+  padding-top: 5px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 1px solid #8c8c5a;
+  margin-bottom: 40px;
+}
+
+.varshava{
+  width: 100%;
+  height: 170px;
+  border:1px solid green;
+}
+
+.varshava1{
+  width: 100%;
+  height: 170px;
+  border:1px solid green;
+}
+.krakov1{
+  width: 100%;
+  height: 170px;
+  border:1px solid green;
+}
+
+.krakov4{
+  width: 100%;
+  height: 170px;
+  border:1px solid green;
+}
+
+.varshavatext{
+  text-align: center;
+}
+
+
+
+
+
+
+
 
 
 
@@ -2088,5 +2143,77 @@ margin-top: 190px;
   color: brown;
   margin-top: 40px;
 
+}
+
+
+
+.header9{
+  background-color: #d6d6c2;
+  position: fixed;
+  max-width: 1200px;
+  width: 100%;
+  z-index: 999;
+}
+
+.ukanaponi9{
+  background-color:  #ebebe0;
+}
+
+.ertdgianebi{
+  max-width:1200px;
+  margin: 0 auto;
+  background-color: #e1e1d0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.samdgianebi{
+   display: flex;
+   justify-content: center;
+}
+
+.paketitbilisi{
+ max-width: 290px;
+}
+.tbiliski{
+  width: 100%;
+  height: 180px;
+  padding: 10px;
+}
+.paketimcxeta{
+  max-width: 290px;
+
+}
+.mcxetka{
+  width: 100%;
+  height: 180px;
+  padding: 10px;
+}
+
+.paketikaxeti{
+ max-width: 290px;
+}
+.kaxetski{
+  width: 100%;
+  height: 180px;
+  padding: 10px;
+}
+.paketikazbegi{
+  max-width: 290px;
+}
+.kazbegski{
+  width: 100%;
+  height: 180px;
+  padding: 10px;
+}
+.kazbegiponi{
+  background-color: #ebebe0;
+  border:1px solid #b9b992;
+}
+
+
+
+.zomaday{
+  width:90px;
+  height: 35px;
 }
 
