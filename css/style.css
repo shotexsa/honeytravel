@@ -697,6 +697,7 @@ border: 1px solid #4d4d4d;
 
 .ukanaponi3{
   background-color:#d6d6c2;
+   overflow-x: hidden;
 
 }
 
@@ -1112,6 +1113,7 @@ padding: 2px;
 
 .ukanaponi4{
   background-color: #d7cec1;
+   overflow-x: hidden;
 
 }
 
@@ -1463,7 +1465,7 @@ padding: 2px;
 @keyframes wineleftcekva{
 
    from {left: 5px;}
-   to {left: 465px;}
+   to {left: 530px;}
 
   }
 
@@ -1480,7 +1482,7 @@ padding: 2px;
 @keyframes winelrightcekva{
 
    from {left: 1000px;}
-   to {left: 500px;}
+   to {left: 600px;}
 
   }
 
@@ -1522,6 +1524,7 @@ padding: 2px;
 
 .ukanaponi5{
   background-color: #d7cec1;
+  overflow-x: hidden;
 }
 
 .davluri5{
