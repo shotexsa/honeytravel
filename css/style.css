@@ -2107,13 +2107,11 @@ margin-top: 190px;
 
 }
 .dzala{
-  background-image:url("../img/dzala.jpg");
-  width:600px;
-  height:390px;
-  background-repeat:no-repeat;
-  background-size:cover;
-  background-position:right;
-  margin-left: 300px;
+  width:350px;
+  height:240px;
+  margin-bottom: 50px;
+ 
+ 
  }
 .nosmoking{
   width: 80px;
